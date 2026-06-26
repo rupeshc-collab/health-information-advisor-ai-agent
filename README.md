@@ -24,7 +24,7 @@ Most AI chatbots in health-adjacent domains answer confidently but can't show th
 
 | Agent Configuration | Live Reasoning | Source Citations |
 |---|---|---|
-| ![Overview](./screenshots/01-agent-overview.png) | ![Reasoning](./screenshots/04-reasoning-step.png) | ![Sources](./screenshots/05-source-citations.png) |
+| ![Overview](./screenshots/01-agent-overview.png) | ![Reasoning](./screenshots/03-agent-reasoning-step.png) | ![Sources](./screenshots/04-knowledge-grounding-citations.png) |
 
 ## Tech Stack
 
